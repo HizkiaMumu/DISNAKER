@@ -1,0 +1,46 @@
+1. PKPT (Daftar OPD)
+2. SK Team (7)
+3. Surat Tugas
+4. PKP (Program Kerja Pemeriksaan) / format baku
+
+5. KKP (individu) kecuali pembantu penanggung jawab / format baku
+	- bukan temuam
+	- temuan (dibakukan) : 
+Judul Temuan
+- Kondisi (kode temuan)
+- kriteria 
+- sebab 
+- akibat 
+- rekomendasi (kode rekomendasi)
+
+6. NHP
+* Judul Temuan
+	- Kondisi (kode temuan)
+	- kriteria 
+	- sebab 
+	- akibat 
+	- tanggapan kepala OPD
+	- Komentar atas tanggapan
+	- rekomendasi (kode rekomendasi)
+
+* Hal-hal yang perlu mendapat perhatian
+	- paragraf kondisi
+
+
+-- susunan 
+inspektur 			- melihat aja PKP/KKP/NHP/LHP(coret + komentar)
+pembantu penanggung jawab	- coret komentar + revisi
+pengendali teknis		- coret komentar + revisi
+ketua tim			- coret komentar + revisi membuat LHP/KKP/NHP/
+anggota tim			- PKP hanya bisa lihat
+				- LHP hanya bisa komen
+				- KKP/NHP/(membuat)
+
+
+
+
+
+
+
+
+

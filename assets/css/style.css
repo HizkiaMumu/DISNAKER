@@ -1,0 +1,65 @@
+.table{
+  border-color: #217dbb;
+}
+.table thead{
+  color:#fff;
+  background:#3498db; 
+}
+
+.table tr td{
+  border-color: #217dbb;
+}
+
+.widget{
+	border-radius: 3px !important;
+}
+.bg-green {
+    background: #00acac !important;
+}
+
+.tile-box {
+    line-height: inherit;
+    display: block;
+    position: relative;
+    height: auto;
+    padding: 0;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+	border-radius: 5px !important;
+}
+
+.tile-box-alt .tile-header {
+    padding: 10px;
+    text-align: center;
+}
+
+.tile-header {
+    font-size: 14px;
+    padding: 5px 10px;
+    text-align: left;
+    text-transform: uppercase;
+    border: 0 !important;
+    background: rgba(255,255,255,.2);
+}
+
+.tile-content-wrapper {
+    position: relative;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.easyPieChart {
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tile-content-wrapper .easyPieChart {
+    margin-top: -5px;
+    margin-bottom: -5px;
+    font-size: 29px;
+    font-weight: 100;
+}
+
