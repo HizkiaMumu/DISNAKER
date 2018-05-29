@@ -5,6 +5,7 @@ class Pencaker extends CI_Controller {
 
 	public function __construct(){
 		parent::__construct();
+		$this->load->model('Mprofil');
 	}
 
 	public function index(){
@@ -24,7 +25,7 @@ class Pencaker extends CI_Controller {
 			$this->load->view('pencaker/profil');
 			$this->load->view('pencaker-foot');
 		} else {
-			// $this->Mprofil->create();
+			$this->Mprofil->create();
 			$this->load->view('pencaker-head');
 			$this->load->view('pencaker/profil');
 			$this->load->view('pencaker-foot');

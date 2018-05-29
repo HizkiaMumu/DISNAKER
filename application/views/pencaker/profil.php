@@ -53,7 +53,7 @@
                                 </div>
                                 <label class="col-sm-2 control-label">Tanggal Lahir</label>
                                 <div class="col-sm-2">
-                                  <input type="text" class="form-control" name="tangal_lhr">
+                                  <input type="text" class="form-control" name="tanggal_lhr">
                                 </div>
                             </div>
 
